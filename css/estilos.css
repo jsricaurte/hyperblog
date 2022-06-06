@@ -2,7 +2,7 @@ body {
     color: brown;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 16px;
+    font-size: 100px;
 }
 
 #cabecera
@@ -31,11 +31,26 @@ body {
     border: 1px solid #000;
     margin: 0 auto;
   }
-#containder h1
+#container h1
  {
-     font-size: 20px;
- }
+     font-size: 50px;
+     color:black;
+     font-family: 'DauphinPlain';
+    }
+     
+     
+#container h2
+     {
+         font-size: 50px;
+         color:green;
+         font-family: 'DauphinPlain';
+     }     
 
+#container p
 
+{
+    font-size: 20px;
+    color: purple;
+}
  
   
